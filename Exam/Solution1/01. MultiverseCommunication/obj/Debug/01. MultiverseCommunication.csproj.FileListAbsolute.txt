@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Exam\Solution1\01. MultiverseCommunication\bin\Debug\_01.MultiverseCommunication.exe.config
+C:\Users\User\Desktop\Exam\Solution1\01. MultiverseCommunication\bin\Debug\_01.MultiverseCommunication.exe
+C:\Users\User\Desktop\Exam\Solution1\01. MultiverseCommunication\bin\Debug\_01.MultiverseCommunication.pdb
+C:\Users\User\Desktop\Exam\Solution1\01. MultiverseCommunication\obj\Debug\01. MultiverseCommunication.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Exam\Solution1\01. MultiverseCommunication\obj\Debug\_01.MultiverseCommunication.exe
+C:\Users\User\Desktop\Exam\Solution1\01. MultiverseCommunication\obj\Debug\_01.MultiverseCommunication.pdb

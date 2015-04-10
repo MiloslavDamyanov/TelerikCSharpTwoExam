@@ -1,0 +1,6 @@
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Slides3D\bin\Debug\Slides3D.exe.config
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Slides3D\bin\Debug\Slides3D.exe
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Slides3D\bin\Debug\Slides3D.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Slides3D\obj\Debug\Slides3D.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Slides3D\obj\Debug\Slides3D.exe
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Slides3D\obj\Debug\Slides3D.pdb

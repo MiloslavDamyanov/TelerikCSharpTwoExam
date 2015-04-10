@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\GnomeDecoder\GnomeDecoder\GnomeDecoder\bin\Debug\GnomeDecoder.exe.config
+C:\Users\User\Desktop\GnomeDecoder\GnomeDecoder\GnomeDecoder\bin\Debug\GnomeDecoder.exe
+C:\Users\User\Desktop\GnomeDecoder\GnomeDecoder\GnomeDecoder\bin\Debug\GnomeDecoder.pdb
+C:\Users\User\Desktop\GnomeDecoder\GnomeDecoder\GnomeDecoder\obj\Debug\GnomeDecoder.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GnomeDecoder\GnomeDecoder\GnomeDecoder\obj\Debug\GnomeDecoder.exe
+C:\Users\User\Desktop\GnomeDecoder\GnomeDecoder\GnomeDecoder\obj\Debug\GnomeDecoder.pdb
+C:\Users\User\Desktop\GenomeDecoder\GnomeDecoder\GnomeDecoder\bin\Debug\GnomeDecoder.exe.config
+C:\Users\User\Desktop\GenomeDecoder\GnomeDecoder\GnomeDecoder\obj\Debug\GnomeDecoder.exe
+C:\Users\User\Desktop\GenomeDecoder\GnomeDecoder\GnomeDecoder\obj\Debug\GnomeDecoder.pdb
+C:\Users\User\Desktop\GenomeDecoder\GnomeDecoder\GnomeDecoder\bin\Debug\GnomeDecoder.exe
+C:\Users\User\Desktop\GenomeDecoder\GnomeDecoder\GnomeDecoder\bin\Debug\GnomeDecoder.pdb
+C:\Users\User\Desktop\GenomeDecoder\GnomeDecoder\GnomeDecoder\obj\Debug\GnomeDecoder.csprojResolveAssemblyReference.cache

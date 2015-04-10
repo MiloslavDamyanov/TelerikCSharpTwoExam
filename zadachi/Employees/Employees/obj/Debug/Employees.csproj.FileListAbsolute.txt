@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Exam C# 2\zadachi\Employees\Employees\bin\Debug\Employees.exe.config
+C:\Users\User\Desktop\Exam C# 2\zadachi\Employees\Employees\bin\Debug\Employees.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\Employees\Employees\bin\Debug\Employees.pdb
+C:\Users\User\Desktop\Exam C# 2\zadachi\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Exam C# 2\zadachi\Employees\Employees\obj\Debug\Employees.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\Employees\Employees\obj\Debug\Employees.pdb

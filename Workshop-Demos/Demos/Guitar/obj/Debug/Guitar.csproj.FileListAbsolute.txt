@@ -1,0 +1,6 @@
+C:\DeleteMe\ConsoleApplication1\Guitar\bin\Debug\Guitar.exe.config
+C:\DeleteMe\ConsoleApplication1\Guitar\bin\Debug\Guitar.exe
+C:\DeleteMe\ConsoleApplication1\Guitar\bin\Debug\Guitar.pdb
+C:\DeleteMe\ConsoleApplication1\Guitar\obj\Debug\Guitar.csprojResolveAssemblyReference.cache
+C:\DeleteMe\ConsoleApplication1\Guitar\obj\Debug\Guitar.exe
+C:\DeleteMe\ConsoleApplication1\Guitar\obj\Debug\Guitar.pdb

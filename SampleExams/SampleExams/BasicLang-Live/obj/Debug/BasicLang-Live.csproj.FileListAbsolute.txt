@@ -1,0 +1,6 @@
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\BasicLang-Live\bin\Debug\BasicLang-Live.exe.config
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\BasicLang-Live\bin\Debug\BasicLang-Live.exe
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\BasicLang-Live\bin\Debug\BasicLang-Live.pdb
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\BasicLang-Live\obj\Debug\BasicLang-Live.csprojResolveAssemblyReference.cache
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\BasicLang-Live\obj\Debug\BasicLang-Live.exe
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\BasicLang-Live\obj\Debug\BasicLang-Live.pdb

@@ -1,0 +1,5 @@
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\Employess-Live\bin\Debug\Employess-Live.exe.config
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\Employess-Live\bin\Debug\Employess-Live.exe
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\Employess-Live\bin\Debug\Employess-Live.pdb
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\Employess-Live\obj\Debug\Employess-Live.exe
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\Employess-Live\obj\Debug\Employess-Live.pdb

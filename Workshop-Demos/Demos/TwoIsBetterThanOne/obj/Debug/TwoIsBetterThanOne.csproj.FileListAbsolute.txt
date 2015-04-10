@@ -1,0 +1,5 @@
+C:\DeleteMe\ConsoleApplication1\TwoIsBetterThanOne\bin\Debug\TwoIsBetterThanOne.exe.config
+C:\DeleteMe\ConsoleApplication1\TwoIsBetterThanOne\bin\Debug\TwoIsBetterThanOne.exe
+C:\DeleteMe\ConsoleApplication1\TwoIsBetterThanOne\bin\Debug\TwoIsBetterThanOne.pdb
+C:\DeleteMe\ConsoleApplication1\TwoIsBetterThanOne\obj\Debug\TwoIsBetterThanOne.exe
+C:\DeleteMe\ConsoleApplication1\TwoIsBetterThanOne\obj\Debug\TwoIsBetterThanOne.pdb

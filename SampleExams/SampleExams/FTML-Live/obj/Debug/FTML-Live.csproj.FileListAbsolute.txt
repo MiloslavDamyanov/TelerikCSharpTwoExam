@@ -1,0 +1,6 @@
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\FTML-Live\bin\Debug\FTML-Live.exe.config
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\FTML-Live\bin\Debug\FTML-Live.exe
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\FTML-Live\bin\Debug\FTML-Live.pdb
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\FTML-Live\obj\Debug\FTML-Live.csprojResolveAssemblyReference.cache
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\FTML-Live\obj\Debug\FTML-Live.exe
+C:\Users\teodo_000\Desktop\JS Frameworks Homeworks\SampleExams\FTML-Live\obj\Debug\FTML-Live.pdb

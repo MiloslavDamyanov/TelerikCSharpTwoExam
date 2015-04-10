@@ -1,0 +1,6 @@
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Stars3D\bin\Debug\Stars3D.exe.config
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Stars3D\bin\Debug\Stars3D.exe
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Stars3D\bin\Debug\Stars3D.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Stars3D\obj\Debug\Stars3D.exe
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Stars3D\obj\Debug\Stars3D.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\Stars3D\obj\Debug\Stars3D.csprojResolveAssemblyReference.cache

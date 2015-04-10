@@ -1,0 +1,5 @@
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\DurankulakNumbers\obj\Debug\DurankulakNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\DurankulakNumbers\bin\Debug\DurankulakNumbers.exe
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\DurankulakNumbers\bin\Debug\DurankulakNumbers.pdb
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\DurankulakNumbers\obj\Debug\DurankulakNumbers.exe
+C:\Users\Vladislav\Documents\Visual Studio 2012\Projects\DurankulakNumbers\DurankulakNumbers\obj\Debug\DurankulakNumbers.pdb

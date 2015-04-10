@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Exam\Zerg\Zerg\bin\Debug\Zerg.exe.config
+C:\Users\User\Desktop\Exam\Zerg\Zerg\bin\Debug\Zerg.exe
+C:\Users\User\Desktop\Exam\Zerg\Zerg\bin\Debug\Zerg.pdb
+C:\Users\User\Desktop\Exam\Zerg\Zerg\obj\Debug\Zerg.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Exam\Zerg\Zerg\obj\Debug\Zerg.exe
+C:\Users\User\Desktop\Exam\Zerg\Zerg\obj\Debug\Zerg.pdb

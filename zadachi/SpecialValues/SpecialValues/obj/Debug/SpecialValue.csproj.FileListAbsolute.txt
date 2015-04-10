@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Exam C# 2\zadachi\SpecialValues\SpecialValues\bin\Debug\SpecialValues.exe.config
+C:\Users\User\Desktop\Exam C# 2\zadachi\SpecialValues\SpecialValues\bin\Debug\SpecialValues.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\SpecialValues\SpecialValues\bin\Debug\SpecialValues.pdb
+C:\Users\User\Desktop\Exam C# 2\zadachi\SpecialValues\SpecialValues\obj\Debug\SpecialValue.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Exam C# 2\zadachi\SpecialValues\SpecialValues\obj\Debug\SpecialValues.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\SpecialValues\SpecialValues\obj\Debug\SpecialValues.pdb

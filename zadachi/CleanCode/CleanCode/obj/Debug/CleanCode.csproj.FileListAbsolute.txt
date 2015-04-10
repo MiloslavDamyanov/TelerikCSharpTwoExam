@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Exam C# 2\zadachi\CleanCode\CleanCode\bin\Debug\CleanCode.exe.config
+C:\Users\User\Desktop\Exam C# 2\zadachi\CleanCode\CleanCode\bin\Debug\CleanCode.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\CleanCode\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\User\Desktop\Exam C# 2\zadachi\CleanCode\CleanCode\obj\Debug\CleanCode.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Exam C# 2\zadachi\CleanCode\CleanCode\obj\Debug\CleanCode.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\CleanCode\CleanCode\obj\Debug\CleanCode.pdb
+C:\Users\User\Desktop\Exam C# 2 test\zadachi\CleanCode\CleanCode\bin\Debug\CleanCode.exe.config
+C:\Users\User\Desktop\Exam C# 2 test\zadachi\CleanCode\CleanCode\obj\Debug\CleanCode.exe

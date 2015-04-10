@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Exam C# 2\zadachi\9Gag\9Gag\bin\Debug\9Gag.exe.config
+C:\Users\User\Desktop\Exam C# 2\zadachi\9Gag\9Gag\bin\Debug\9Gag.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\9Gag\9Gag\bin\Debug\9Gag.pdb
+C:\Users\User\Desktop\Exam C# 2\zadachi\9Gag\9Gag\obj\Debug\NineGagNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Exam C# 2\zadachi\9Gag\9Gag\obj\Debug\9Gag.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\9Gag\9Gag\obj\Debug\9Gag.pdb

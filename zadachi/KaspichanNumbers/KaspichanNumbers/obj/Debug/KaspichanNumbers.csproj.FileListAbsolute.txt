@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Exam C# 2\zadachi\KaspichanNumbers\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe.config
+C:\Users\User\Desktop\Exam C# 2\zadachi\KaspichanNumbers\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\KaspichanNumbers\KaspichanNumbers\bin\Debug\KaspichanNumbers.pdb
+C:\Users\User\Desktop\Exam C# 2\zadachi\KaspichanNumbers\KaspichanNumbers\obj\Debug\KaspichanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Exam C# 2\zadachi\KaspichanNumbers\KaspichanNumbers\obj\Debug\KaspichanNumbers.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\KaspichanNumbers\KaspichanNumbers\obj\Debug\KaspichanNumbers.pdb

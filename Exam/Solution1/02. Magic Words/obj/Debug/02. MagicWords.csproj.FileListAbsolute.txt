@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Exam\Solution1\02. Magic Words\bin\Debug\_02.Magic_Words.exe.config
+C:\Users\User\Desktop\Exam\Solution1\02. Magic Words\bin\Debug\_02.Magic_Words.exe
+C:\Users\User\Desktop\Exam\Solution1\02. Magic Words\bin\Debug\_02.Magic_Words.pdb
+C:\Users\User\Desktop\Exam\Solution1\02. Magic Words\obj\Debug\02. MagicWords.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Exam\Solution1\02. Magic Words\obj\Debug\_02.Magic_Words.exe
+C:\Users\User\Desktop\Exam\Solution1\02. Magic Words\obj\Debug\_02.Magic_Words.pdb

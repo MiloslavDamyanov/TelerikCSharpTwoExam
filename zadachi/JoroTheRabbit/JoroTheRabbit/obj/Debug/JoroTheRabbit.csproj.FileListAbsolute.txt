@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Exam C# 2\zadachi\JoroTheRabbit\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe.config
+C:\Users\User\Desktop\Exam C# 2\zadachi\JoroTheRabbit\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\JoroTheRabbit\JoroTheRabbit\bin\Debug\JoroTheRabbit.pdb
+C:\Users\User\Desktop\Exam C# 2\zadachi\JoroTheRabbit\JoroTheRabbit\obj\Debug\JoroTheRabbit.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Exam C# 2\zadachi\JoroTheRabbit\JoroTheRabbit\obj\Debug\JoroTheRabbit.exe
+C:\Users\User\Desktop\Exam C# 2\zadachi\JoroTheRabbit\JoroTheRabbit\obj\Debug\JoroTheRabbit.pdb
